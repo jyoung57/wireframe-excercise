@@ -1,0 +1,80 @@
+h1 {
+  background-color: rgb(221, 220, 220);
+  height: 70px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+ }
+
+ nav {
+  display: flex;
+  width: 100%;
+  
+ }
+
+ img[alt="Hero Image"]  {
+  width: 960px;
+  height: 460px;
+  
+ }
+
+ ul {
+  display: flex;
+  align-items: center;
+  width: 100%;
+ }
+
+ body ul {
+  gap: 30px;
+  width: 100%;
+ }
+
+ header {
+  width: 960px;
+ }
+
+ body {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 960px;
+  align-items: center;
+ }
+
+ .textAndButton {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+ }
+
+ h2 {
+  font-size: 25px;
+ }
+
+ .featuredSection {
+  display: flex;
+  gap: 25px;
+}
+
+ p {
+  overflow-y: scroll;
+  width: 100%;
+  font-size: 20px;
+  height: 75%;
+ }
+ 
+ footer {
+  width: 100%;
+ }
+
+ .callToAction {
+  border-radius: 12px;
+  border-width: 1px;
+  width: 40%;
+  height: 50px;
+  background-color: rgb(221, 220, 220);
+ }
+
+
